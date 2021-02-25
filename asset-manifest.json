@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-cognito/static/css/main.1fb8cc7d.chunk.css",
+    "main.js": "/test-cognito/static/js/main.c37564ab.chunk.js",
+    "main.js.map": "/test-cognito/static/js/main.c37564ab.chunk.js.map",
+    "runtime-main.js": "/test-cognito/static/js/runtime-main.eab68e0f.js",
+    "runtime-main.js.map": "/test-cognito/static/js/runtime-main.eab68e0f.js.map",
+    "static/css/2.150d169a.chunk.css": "/test-cognito/static/css/2.150d169a.chunk.css",
+    "static/js/2.8785bf96.chunk.js": "/test-cognito/static/js/2.8785bf96.chunk.js",
+    "static/js/2.8785bf96.chunk.js.map": "/test-cognito/static/js/2.8785bf96.chunk.js.map",
+    "index.html": "/test-cognito/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/test-cognito/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.1fb8cc7d.chunk.css.map": "/test-cognito/static/css/main.1fb8cc7d.chunk.css.map",
+    "static/js/2.8785bf96.chunk.js.LICENSE.txt": "/test-cognito/static/js/2.8785bf96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eab68e0f.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.8785bf96.chunk.js",
+    "static/css/main.1fb8cc7d.chunk.css",
+    "static/js/main.c37564ab.chunk.js"
+  ]
+}
